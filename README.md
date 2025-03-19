@@ -13,7 +13,7 @@ womenQuiz is a quiz application designed to educate and empower users with knowl
 
 1. Clone the repository:
    sh
-   git clone https:/harita-27/github.com//womenQuizConsoleApplication.git
+   git clone https://github.com/Harita27/womenQuizConsoleApplication
 
    
 2. Navigate to the project directory:
